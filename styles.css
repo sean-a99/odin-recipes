@@ -1,0 +1,23 @@
+* {
+    font-family:'Times New Roman', Times, serif
+}
+
+h1 {
+    color: rgb(0, 0, 97);
+    text-align:center;
+
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+li {
+    color: rgb(0, 0, 97);
+}
+
+h3 {
+    font-size: 20px;
+    color:maroon;
+}
